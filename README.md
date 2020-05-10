@@ -7,4 +7,4 @@
 - extend personal responses 
 
 
-.[my scenod page].(https://github.com/namaalzoubi/learing-journal/blob/master/index.md)
+
